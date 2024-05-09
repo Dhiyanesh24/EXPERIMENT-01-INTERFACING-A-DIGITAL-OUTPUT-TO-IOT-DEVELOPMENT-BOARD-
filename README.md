@@ -1,8 +1,4 @@
-###  DATE: 13 / 2 / 24
 
-###  NAME: Dhiyaneshwar P
-###  ROLL NO : 212222110009
-###  DEPARTMENT: CSE(IoT)
 
 
 
@@ -83,7 +79,10 @@ The main features of LPC2148 include the following.
 
 
 
-
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 
 ## STM 32 CUBE PROGRAM :
 ```
